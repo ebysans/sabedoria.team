@@ -1,0 +1,27 @@
+{
+  "name": "sabedoria-",
+  "version": "1.0.0",
+  "description": "Saberia Website ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisolae/sabedoria.team.git"
+  },
+  "author": "Sabedorians Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisolae/sabedoria.team/issues"
+  },
+  "homepage": "https://github.com/aisolae/sabedoria.team#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
